@@ -1,0 +1,1 @@
+I learned to use Git, GitHub, and shell scripting to manage files, track changes, and automate tasks. Writing a script to print the current directory taught me about pwd, chmod +x, and #!/bin/bash. This process improved my confidence in the command line and version control.
